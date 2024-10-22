@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://0hp.ro">
-    <img src="https://i.imgur.com/XaNn9mY.png" width="200px"/>
+    <img src="https://i.imgur.com/FZYqWXA.jpeg" width="200px"/>
   </a>
 </p>
 
